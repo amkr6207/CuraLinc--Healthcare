@@ -39,8 +39,8 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
-cd curalink
+git clone https://github.com/amkr6207/CuraLinc--Healthcare.git
+cd CuraLinc--Healthcare
 ```
 
 ### 2. Backend Setup
